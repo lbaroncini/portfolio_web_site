@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+.text-muted {
+    color:#BCBBBB;
+}
+.text.thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-med {
+    font-size: 53px;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+img, embed, object, video {
+    max-width: 100%;
+}
+
+.align {
+    text-align: center;
+}
+
+.shadow {
+    box-shadow: 10px 10px 20px #ccc;
+    border: solid 2px #ffffff;
+    -moz-box-shadow: 10px 10px 20px #ccc;
+    -webkit-box-shadow: 10px 10px 20px #ccc;
+    -khtml-box-shadow: 10px 10px 20px #ccc;
+}
